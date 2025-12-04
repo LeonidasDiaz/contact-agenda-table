@@ -38,3 +38,4 @@ contact-agenda-table/
 git clone https://github.com/LeonidasDiaz/contact-agenda-table.git
 cd contact-agenda-table
 python agenda.py
+```
