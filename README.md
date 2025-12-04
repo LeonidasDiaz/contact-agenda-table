@@ -6,8 +6,8 @@ Este proyecto demuestra el uso de **listas**, **diccionarios**, **formateo de te
 ## Tabla de Contenido
 - [Descripción](#descripción)
 - [Características](#características)
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
 - [Estructura del proyecto](#estructura-del-proyecto)
+- [Tecnologías ](#tecnologías)
 - [Cómo ejecutar](#cómo-ejecutar)
 - [Código principal](#código-principal)
 - [Ejemplo de salida](#ejemplo-de-salida)
