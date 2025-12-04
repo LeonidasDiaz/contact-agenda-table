@@ -39,9 +39,14 @@ git clone https://github.com/LeonidasDiaz/contact-agenda-table.git
 cd contact-agenda-table
 python agenda.py
 ```
+
 ## Ejemplo de salida
 Nombre     |   Teléfono
 -----------------------
 Pedro      | 9381234490
 Ana        | 9382334490
 David      | 9381924490
+
+## Autor
+### Leonidas Diaz
+GitHub:[@LeonidasDiaz] https://github.com/LeonidasDiaz
