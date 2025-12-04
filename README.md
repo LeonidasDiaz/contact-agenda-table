@@ -33,9 +33,17 @@ contact-agenda-table/
 - Estructuras de datos (listas y diccionarios)
 - f-strings avanzados
 
-## Ejecución
+## Cómo ejecutar
 ```bash
 git clone https://github.com/LeonidasDiaz/contact-agenda-table.git
 cd contact-agenda-table
+```
+```bash
 python agenda.py
 ```
+## Ejemplo de salida
+Nombre     |   Teléfono
+-----------------------
+Pedro      | 9381234490
+Ana        | 9382334490
+David      | 9381924490
