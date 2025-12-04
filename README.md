@@ -4,14 +4,14 @@ Pequeña aplicación de consola desarrollada en Python que muestra una agenda de
 Este proyecto demuestra el uso de **listas**, **diccionarios**, **formateo de texto**, y **funciones modulares** en Python.
 
 ## Tabla de Contenido
-- [Descripción](#-descripción)
-- [Características](#-características)
-- [Tecnologías utilizadas](#-tecnologías-utilizadas)
-- [Estructura del proyecto](#-estructura-del-proyecto)
-- [Cómo ejecutar](#-cómo-ejecutar)
-- [Código principal](#-código-principal)
-- [Ejemplo de salida](#-ejemplo-de-salida)
-- [Autor](#-autor)
+- [Descripción](#descripción)
+- [Características](#características)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Estructura del proyecto](#estructura-del-proyecto)
+- [Cómo ejecutar](#cómo-ejecutar)
+- [Código principal](#código-principal)
+- [Ejemplo de salida](#ejemplo-de-salida)
+- [Autor](#autor)
 
 ## Descripción
 Este proyecto implementa una agenda de contactos simple en interfaz de consola.  
@@ -24,8 +24,8 @@ Permite recorrer y visualizar una lista de contactos utilizando alineación con 
   
 ## Estructura del proyecto
 Contact-agenda-table/
-agenda.py#Script principal
-README.md # Documentación del proyecto
+├── agenda.py # Script principal
+└── README.md # Documentación del proyecto
 
 ## Tecnologías
 - Python 3
