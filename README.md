@@ -1,7 +1,17 @@
 # Contact-agenda-table 
 
-Pequeña aplicación de consola desarrollada en Python que permite mostrar una agenda de contactos en formato tabular.  
-Este proyecto demuestra manejo de listas, diccionarios, formateo de texto, funciones y estructuras básicas.
+Pequeña aplicación de consola desarrollada en Python que muestra una agenda de contactos en formato tabular.  
+Este proyecto demuestra el uso de **listas**, **diccionarios**, **formateo de texto**, y **funciones modulares** en Python.
+
+## Tabla de Contenido
+- [Descripción](#-descripción)
+- [Características](#-características)
+- [Tecnologías utilizadas](#-tecnologías-utilizadas)
+- [Estructura del proyecto](#-estructura-del-proyecto)
+- [Cómo ejecutar](#-cómo-ejecutar)
+- [Código principal](#-código-principal)
+- [Ejemplo de salida](#-ejemplo-de-salida)
+- [Autor](#-autor)
 
 ## Funcionalidades
 - Recorrido de una lista de diccionarios.
@@ -19,7 +29,6 @@ README.md # Documentación del proyecto
 
 ## Ejecución
 ```bash
-git clone https://github.com/TU_USUARIO/contact-agenda-table.git
+git clone https://github.com/LeonidasDiaz/contact-agenda-table.git
 cd contact-agenda-table
-
 python agenda.py
