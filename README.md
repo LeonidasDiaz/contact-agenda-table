@@ -37,8 +37,6 @@ contact-agenda-table/
 ```bash
 git clone https://github.com/LeonidasDiaz/contact-agenda-table.git
 cd contact-agenda-table
-```
-```bash
 python agenda.py
 ```
 ## Ejemplo de salida
