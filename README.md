@@ -13,7 +13,7 @@ Contact-agenda-table/
 agenda.py#Script principal
 README.md # Documentación del proyecto
 ## Tecnologías
-- Python 3
+- **Python 3.x**
 - Estructuras de datos (listas y diccionarios)
 - f-strings avanzados
 
@@ -22,5 +22,4 @@ README.md # Documentación del proyecto
 git clone https://github.com/TU_USUARIO/contact-agenda-table.git
 cd contact-agenda-table
 
-```bash
 python agenda.py
