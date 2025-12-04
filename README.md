@@ -13,7 +13,7 @@ Contact-agenda-table/
 agenda.py#Script principal
 README.md # Documentación del proyecto
 ## Tecnologías
-- **Python 3.x**
+- Python 3
 - Estructuras de datos (listas y diccionarios)
 - f-strings avanzados
 
