@@ -48,5 +48,5 @@ Ana        | 9382334490
 David      | 9381924490
 
 ## Autor
-###Leonidas Diaz
+### Leonidas Diaz
 GitHub: [@LeonidasDiaz](https://github.com/LeonidasDiaz)
