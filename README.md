@@ -1,5 +1,5 @@
 # Contact-agenda-table 
-Basado en: :contentReference[oaicite:0]{index=0}
+
 
 Proyecto sencillo de Python que muestra una lista de contactos en una tabla formateada.
 
