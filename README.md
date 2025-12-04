@@ -49,4 +49,4 @@ David      | 9381924490
 
 ## Autor
 ### Leonidas Diaz
-GitHub:[@LeonidasDiaz] https://github.com/LeonidasDiaz
+GitHub: [@LeonidasDiaz] (https://github.com/LeonidasDiaz)
