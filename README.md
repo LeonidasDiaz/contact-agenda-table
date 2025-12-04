@@ -13,15 +13,20 @@ Este proyecto demuestra el uso de **listas**, **diccionarios**, **formateo de te
 - [Ejemplo de salida](#-ejemplo-de-salida)
 - [Autor](#-autor)
 
-## Funcionalidades
+## Descripción
+Este proyecto implementa una agenda de contactos simple en interfaz de consola.  
+Permite recorrer y visualizar una lista de contactos utilizando alineación con **f-strings** para mostrar una tabla ordenada.
+## Características
 - Recorrido de una lista de diccionarios.
-- Impresión de tabla con alineación (`:<10`, `:>10`).
+- Impresión tabular con formatos `:<10` y `:>10`.
 - Función modular `recorrer_Agenda()`.
-
+- Código claro y fácil de entender para principiantes.
+  
 ## Estructura del proyecto
 Contact-agenda-table/
 agenda.py#Script principal
 README.md # Documentación del proyecto
+
 ## Tecnologías
 - Python 3
 - Estructuras de datos (listas y diccionarios)
