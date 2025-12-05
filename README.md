@@ -68,14 +68,15 @@ if __name__ == "__main__":
 
 
 ## Ejemplo de salida
+```
+Nombre     |   Teléfono
+-----------------------
+Pedro      | 9381234490
+Ana        | 9382334490
+David      | 9381924490
 
-| Nombre | Teléfono |
-|--------------|--------------|
-| Pedro | 9381234490 |
-|Ana    | 9382334490 |
-|David  | 9381234490 |
+```
 
-## Salida del Programa
 
 
 ## Autor
