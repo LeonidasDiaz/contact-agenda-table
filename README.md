@@ -42,7 +42,6 @@ python agenda.py
 
 ## Ejemplo de salida
 Nombre     |   Teléfono
------------------------
 Pedro      | 9381234490
 Ana        | 9382334490
 David      | 9381924490
