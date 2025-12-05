@@ -7,7 +7,7 @@ Este proyecto demuestra el uso de **listas**, **diccionarios**, **formateo de te
 - [Descripción](#descripción)
 - [Características](#características)
 - [Estructura del proyecto](#estructura-del-proyecto)
-- [Tecnologías ](#tecnologías)
+- [Tecnologías](#tecnologías)
 - [Cómo ejecutar](#cómo-ejecutar)
 - [Código principal](#código-principal)
 - [Ejemplo de salida](#ejemplo-de-salida)
@@ -42,7 +42,7 @@ python agenda.py
 
 
 ## Código principal
-```Python
+```python
 def recorrer_Agenda(contactos):
     """Función que recorre la agenda y muestra los contactos en una tabla"""
     print(f"{'Nombre':<10} | {'Telefono':>10}")
