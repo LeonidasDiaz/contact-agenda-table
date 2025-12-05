@@ -41,7 +41,7 @@ python agenda.py
 ```
 
 
-##Código principal
+## Código principal
 ```
 def recorrer_Agenda(contactos):
     """Función que recorre la agenda y muestra los contactos en una tabla"""
