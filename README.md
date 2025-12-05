@@ -77,13 +77,6 @@ if __name__ == "__main__":
 
 ## Salida del Programa
 
-```text
-Nombre   | Teléfono
------------------------
-Pedro    | 9381234490
-Ana      | 9382334490
-David    | 9381924490
-\```
 
 ## Autor
 ### Leonidas Diaz
