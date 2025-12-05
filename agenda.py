@@ -1,6 +1,6 @@
 def recorrer_Agenda(contactos):
     """Funcion que recorre la agenda y muestra los contactos en un tabla"""
-    print(f"{"Nombre":<10} | {"Telefono":>10}")
+    print(f"{'Nombre':<10} | {'Telefono':>10}")
     print("-"*23)
     for contacto in contactos:
         print(f"{contacto['nombre']:<10} | {contacto['telefono']:<10}")
