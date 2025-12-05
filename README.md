@@ -1,4 +1,4 @@
-# Contact-agenda-table 
+# Contact-agenda-table-CLI
 
 Pequeña aplicación de consola desarrollada en Python que muestra una agenda de contactos en formato tabular.  
 Este proyecto demuestra el uso de **listas**, **diccionarios**, **formateo de texto**, y **funciones modulares** en Python.
