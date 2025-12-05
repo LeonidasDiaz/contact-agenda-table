@@ -25,8 +25,8 @@ Permite recorrer y visualizar una lista de contactos utilizando alineación con 
 ## Estructura del proyecto
 ```
 contact-agenda-table/
-├── agenda.py          # Script principal
-└── README.md          # Documentación del proyecto
+|-- agenda.py          # Script principal
+`--`  README.md          # Documentación del proyecto
 ```
 ## Tecnologías
 - Python 3
