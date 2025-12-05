@@ -23,11 +23,11 @@ Permite recorrer y visualizar una lista de contactos utilizando alineación con 
 - Código claro y fácil de entender para principiantes.
   
 ## Estructura del proyecto
-```
+
 contact-agenda-table/
 - **agenda.py** - Script principal con la lógica de la agenda
 - **README.md** - Documentación del proyecto (este archivo)
-```
+
 ## Tecnologías
 - Python 3
 - Estructuras de datos (listas y diccionarios)
