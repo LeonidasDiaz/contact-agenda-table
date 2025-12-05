@@ -68,10 +68,11 @@ if __name__ == "__main__":
 
 
 ## Ejemplo de salida
-Nombre     |   Teléfono
-Pedro      | 9381234490
-Ana        | 9382334490
-David      | 9381924490
+
+| Encabezado 1 | Encabezado 2 |
+|--------------|--------------|
+| Celda 1      | Celda 2      |
+| Celda 3      | Celda 4      |
 
 ## Autor
 ### Leonidas Diaz
